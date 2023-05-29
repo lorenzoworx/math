@@ -92,7 +92,7 @@ In order to run this project you need: any web-browser.
 
 ### Setup
 
-Clone this [repository](https://github.com/lorenzoworx/math-magicians.git) to your desired folder.
+Clone this [repository](https://github.com/lorenzoworx/math.git) to your desired folder.
 
 ### Install
 
@@ -102,7 +102,7 @@ This project does not require installation.
 
 **To run the project follow the instructions below:-**
 
-- Clone this [repository](https://github.com/lorenzoworx/math-magicians.git) in your local machine with correct branch.
+- Clone this [repository](https://github.com/lorenzoworx/math.git) in your local machine with correct branch.
 - First run **npm install**
 - Terminal:- **npm start** it will run on port 8080.
 
