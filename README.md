@@ -110,7 +110,7 @@ This project does not require installation.
 
 To run tests, open index.html in any web browser.
 
-### Deployment
+### Deployment <a name="triangular_flag_on_post-deployment"></a>
 
 You can deploy this project using: GitHub pages
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
