@@ -21,7 +21,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -110,7 +110,7 @@ This project does not require installation.
 
 To run tests, open index.html in any web browser.
 
-### Deployment <a name="triangular_flag_on_post-deployment"></a>
+### Deployment
 
 You can deploy this project using: GitHub pages
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
