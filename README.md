@@ -117,7 +117,7 @@ You can deploy this project using: GitHub pages
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+### Authors <a name="authors"></a>
 
 👤 **Okolo Oshoke**
 
