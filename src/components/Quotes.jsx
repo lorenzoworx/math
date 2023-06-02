@@ -9,7 +9,7 @@ const Quotes = () => {
     const fetchQuote = async () => {
       const response = await fetch('https://api.api-ninjas.com/v1/quotes?category=happiness',
         {
-          headers: { 'X-Api-Key': 'VF/Pc9XBd+WWEkCjPg18aA==RDypQjoE00TFNCQq' },
+          headers: { 'X-Api-Key': process.env.REACT_APP_apiNinjasKey },
           contentType: 'application/json',
         });
       if (!response.ok) {
