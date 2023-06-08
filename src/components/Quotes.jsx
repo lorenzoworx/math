@@ -18,7 +18,7 @@ const Quotes = () => {
       return response.json();
     };
     fetchQuote().then((data) => {
-      setQuote(data[0].quote);
+      setQuote(`'${data[0].quote}' - ${data[0].author}`);
       setLoading(false);
       setError(false);
     }).catch((error) => {

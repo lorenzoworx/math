@@ -27,9 +27,11 @@ const Calculator = () => {
     }
   };
   return (
-    <div className="calculator">
-      <CalcDisplay result={calcResult} />
-      <CalcBuild handleClick={handleClick} />
+    <div className="calculatorPage">
+      <div className="calculator">
+        <CalcDisplay result={calcResult} />
+        <CalcBuild handleClick={handleClick} />
+      </div>
     </div>
   );
 };
