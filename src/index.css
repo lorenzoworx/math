@@ -49,6 +49,7 @@
 *::after {
   box-sizing: border-box;
 }
+
 body {
   margin: 0;
   padding: 0;
@@ -58,6 +59,7 @@ body {
   align-items: center;
   padding-top: 50px;
 }
+
 .App {
   display: flex;
   gap: 10px;
